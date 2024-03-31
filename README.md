@@ -33,7 +33,8 @@
 <div align="center">
 	<img draggable=false src="https://skillicons.dev/icons?i=mint,windows,ae,au,photoshop,webstorm,clion,vscode,cmake,blender,unreal&theme=dark" />
 </div>
-<h2 align="center">⚡ Stats ⚡</h2>
+<hr/>
+<h3 align="center" style="font-size: 24px;">⚡ Stats ⚡</h3>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KOR1K1&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
