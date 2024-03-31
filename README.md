@@ -42,3 +42,6 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KOR1K1&hide=HTML,CSS&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&locale=en&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+<hr/>
+<h3 align="center" style="font-size: 24px;">🐍 My Contributions 🐍</h3>
+![snake gif](https://github.com/KOR1K1/KOR1K1/blob/output/github-contribution-grid-snake.svg)
