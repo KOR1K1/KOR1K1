@@ -44,4 +44,6 @@
 </div>
 <hr/>
 <h3 align="center" style="font-size: 24px;">🐍 My Contributions 🐍</h3>
-![snake gif](https://github.com/KOR1K1/KOR1K1/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+<img src="https://github.com/KOR1K1/KOR1K1/blob/output/github-contribution-grid-snake.svg">
+</div>
