@@ -1,48 +1,50 @@
-<!-- <p align="right"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FKOR1K1"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKOR1K1&labelColor=%1&countColor=%FF00F7FF&style=flat-square&labelStyle=upper" /></a></p> -->
-
-<h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&duration=3000&pause=1500&color=7900F7&center=true&vCenter=true&random=false&width=435&lines=Hi+there!%F0%9F%91%8B;I'm+KOR1K;I'm+passionate+developer💾" alt="Typing SVG" /></a>
-</h1>
-
-<h3 align="center">An aspiring passionate software developer</h3>
-<br/>
 <div align="center">
 
-🔭 I’m currently working on **nothing**
+# KOR1K
 
-🌱 I’m currently learning **C++, Typescipt, React, React Native**
+`backend engineer` `nest.js` `next.js` `typescript` `rust in progress`
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/KOR1K1/KOR1K1/issues)**
+<p>
+I build backend-heavy products with real business logic, real-time flows and production-minded architecture.
+</p>
+<p>
+Right now I'm focused on Rust, scalable backend patterns and systems that still feel clean when the complexity stops being theoretical.
+</p>
 
- </div>
- <div align="center">
- <a href="#" target="_blank" draggable=false style="-moz-user-select: none">
-     <img draggable=false src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
- </div>
- <hr/>
-<h3 align="center" style="font-size: 24px;">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+</div>
+
+<br />
+
+## Signal
+
+- Main stack: TypeScript, NestJS, Next.js, React, Node.js, PostgreSQL, Redis, Prisma, Docker
+- Current focus: Rust, backend architecture, auctions, payments, stateful systems
+- Environment: Windows 11
+
+## Featured project
+
+### [CryptoBotContest](https://github.com/KOR1K1/CryptoBotContest)
+
+NestJS backend project built for Backend Contest #1 by CryptoBot.
+
+- 1st place
+- $2,500 prize
+- Auction system with competitive backend logic and correctness under pressure
+
+## GitHub activity
+
 <div align="center">
-<br/>
-    <img draggable=false src="https://skillicons.dev/icons?i=react,vercel,vite,html,css,github,figma,tailwind,git,electron&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,supabase,cpp&theme=dark" /><br>
+  <img width="100%" src="https://ghstats.dev/api/card?username=KOR1K1&theme=radical&hide_border=true&border_radius=8" alt="GitHub Stats Card" />
 </div>
-<br/>
-<hr/>
-<h3 align="center" style="font-size: 24px;">⚒️ What do i use? ⚒️</h3>
+
 <div align="center">
-	<img draggable=false src="https://skillicons.dev/icons?i=mint,windows,ae,au,photoshop,webstorm,clion,vscode,cmake,blender,unreal&theme=dark" />
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=KOR1K1&bg_color=000000&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true&area_color=0d1117&title_color=ffffff"
+    alt="GitHub activity graph for KOR1K1"
+  />
 </div>
-<hr/>
-<h3 align="center" style="font-size: 24px;">⚡ Stats ⚡</h3>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KOR1K1&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=KOR1K1&count_private=true&show_icons=true&theme=tokyonight&locale=en&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KOR1K1&hide=HTML,CSS&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&locale=en&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-<hr/>
-<h3 align="center" style="font-size: 24px;">🐍 My Contributions 🐍</h3>
-<div align="center">
-<img src="https://github.com/KOR1K1/KOR1K1/blob/output/github-contribution-grid-snake.svg">
-</div>
+
+## Contact
+
+If you want to talk about backend engineering, NestJS, Next.js, Rust or ambitious product ideas, reach out on GitHub.
