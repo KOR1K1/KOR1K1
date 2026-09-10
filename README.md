@@ -1,50 +1,36 @@
 <div align="center">
-
-# KOR1K
-
-`backend engineer` `nest.js` `next.js` `typescript` `rust in progress`
-
-<p>
-I build backend-heavy products with real business logic, real-time flows and production-minded architecture.
-</p>
-<p>
-Right now I'm focused on Rust, scalable backend patterns and systems that still feel clean when the complexity stops being theoretical.
-</p>
-
+  <a href="https://kor1k1.github.io/KOR1K1/">
+    <picture>
+      <source media="(max-width: 600px)" srcset="./assets/city-mobile.svg" />
+      <img
+        src="./assets/city.svg"
+        width="760"
+        alt="KOR1K's animated contribution city. One block per week, one building per day. Open the interactive version."
+      />
+    </picture>
+  </a>
 </div>
 
 <br />
 
-## Signal
+I build backends for products where correctness matters:
+auctions, payments, real-time flows and stateful systems.
 
-- Main stack: TypeScript, NestJS, Next.js, React, Node.js, PostgreSQL, Redis, Prisma, Docker
-- Current focus: Rust, backend architecture, auctions, payments, stateful systems
-- Environment: Windows 11
+**TypeScript · NestJS · PostgreSQL · Redis · Docker**  
+Next.js when the product needs a frontend. Rust is the next frontier.
 
-## Featured project
+### First place, not a demo.
 
-### [CryptoBotContest](https://github.com/KOR1K1/CryptoBotContest)
+[CryptoBotContest](https://github.com/KOR1K1/CryptoBotContest) —
+**1st place · $2,500** in CryptoBot Backend Contest #1.
 
-NestJS backend project built for Backend Contest #1 by CryptoBot.
+An auction backend built around competitive bidding logic,
+concurrency and correctness under pressure.
 
-- 1st place
-- $2,500 prize
-- Auction system with competitive backend logic and correctness under pressure
+---
 
-## GitHub activity
-
-<div align="center">
-  <img width="100%" src="https://ghstats.dev/api/card?username=KOR1K1&theme=radical&hide_border=true&border_radius=8" alt="GitHub Stats Card" />
-</div>
-
-<div align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=KOR1K1&bg_color=000000&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true&area_color=0d1117&title_color=ffffff"
-    alt="GitHub activity graph for KOR1K1"
-  />
-</div>
-
-## Contact
-
-If you want to talk about backend engineering, NestJS, Next.js, Rust or ambitious product ideas, reach out on GitHub.
+[Explore the city](https://kor1k1.github.io/KOR1K1/)
+&nbsp; / &nbsp;
+[Source](https://github.com/KOR1K1/KOR1K1/blob/main/scripts/build_city.py)
+&nbsp; / &nbsp;
+[GitHub](https://github.com/KOR1K1)
