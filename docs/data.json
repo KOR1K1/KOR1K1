@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "user": "KOR1K1",
-  "updated_at": "2026-09-11T08:08:38+00:00",
+  "updated_at": "2026-09-12T07:59:30+00:00",
   "period": {
     "from": "2025-09-14",
-    "to": "2026-09-11",
+    "to": "2026-09-12",
     "calendar_weeks": 52,
     "includes_current_partial_week": true
   },
@@ -1478,6 +1478,10 @@
     {
       "date": "2026-09-11",
       "count": 3
+    },
+    {
+      "date": "2026-09-12",
+      "count": 0
     }
   ]
 }
