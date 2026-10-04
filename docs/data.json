@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "user": "KOR1K1",
-  "updated_at": "2026-10-03T09:15:48+00:00",
+  "updated_at": "2026-10-04T09:54:33+00:00",
   "period": {
-    "from": "2025-10-05",
-    "to": "2026-10-03",
+    "from": "2025-10-12",
+    "to": "2026-10-04",
     "calendar_weeks": 52,
     "includes_current_partial_week": true
   },
@@ -17,44 +17,16 @@
     "landmarks": "Decorative; not contribution data"
   },
   "stats": {
-    "contributions": 1286,
+    "contributions": 1287,
     "commits": 93,
     "prs": 9,
-    "issues": 14,
+    "issues": 15,
     "reviews": 0,
     "stars": 11,
     "repos": 7,
-    "streak": 3
+    "streak": 4
   },
   "days": [
-    {
-      "date": "2025-10-05",
-      "count": 0
-    },
-    {
-      "date": "2025-10-06",
-      "count": 0
-    },
-    {
-      "date": "2025-10-07",
-      "count": 0
-    },
-    {
-      "date": "2025-10-08",
-      "count": 0
-    },
-    {
-      "date": "2025-10-09",
-      "count": 0
-    },
-    {
-      "date": "2025-10-10",
-      "count": 0
-    },
-    {
-      "date": "2025-10-11",
-      "count": 0
-    },
     {
       "date": "2025-10-12",
       "count": 0
@@ -1481,6 +1453,10 @@
     },
     {
       "date": "2026-10-03",
+      "count": 1
+    },
+    {
+      "date": "2026-10-04",
       "count": 1
     }
   ]
