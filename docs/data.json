@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "user": "KOR1K1",
-  "updated_at": "2026-11-16T11:40:06+00:00",
+  "updated_at": "2026-11-17T12:01:47+00:00",
   "period": {
     "from": "2025-11-23",
-    "to": "2026-11-16",
+    "to": "2026-11-17",
     "calendar_weeks": 52,
     "includes_current_partial_week": true
   },
@@ -17,14 +17,14 @@
     "landmarks": "Decorative; not contribution data"
   },
   "stats": {
-    "contributions": 2575,
+    "contributions": 2601,
     "commits": 93,
     "prs": 9,
     "issues": 15,
     "reviews": 0,
     "stars": 11,
     "repos": 7,
-    "streak": 1
+    "streak": 2
   },
   "days": [
     {
@@ -1461,7 +1461,11 @@
     },
     {
       "date": "2026-11-16",
-      "count": 10
+      "count": 20
+    },
+    {
+      "date": "2026-11-17",
+      "count": 16
     }
   ]
 }
