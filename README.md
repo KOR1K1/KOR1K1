@@ -1,14 +1,12 @@
 <div align="center">
-  <a href="https://kor1k1.github.io/KOR1K1/">
-    <picture>
-      <source media="(max-width: 600px)" srcset="./assets/city-mobile.svg" />
-      <img
-        src="./assets/city.svg"
-        width="760"
-        alt="KOR1K's animated contribution city. One block per week, one building per day. Open the interactive version."
-      />
-    </picture>
-  </a>
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/exposure-mobile.svg" />
+    <img
+      src="./assets/exposure.svg"
+      width="800"
+      alt="One year of KOR1K's work as a single long exposure: daily activity as light, public projects as labelled tracks, totals underneath."
+    />
+  </picture>
 </div>
 
 <br />
@@ -29,8 +27,6 @@ concurrency and correctness under pressure.
 
 ---
 
-[Explore the city](https://kor1k1.github.io/KOR1K1/)
-&nbsp; / &nbsp;
-[Source](https://github.com/KOR1K1/KOR1K1/blob/main/scripts/build_city.py)
+[How the frame is made](https://github.com/KOR1K1/KOR1K1/tree/main/scripts/exposure)
 &nbsp; / &nbsp;
 [GitHub](https://github.com/KOR1K1)

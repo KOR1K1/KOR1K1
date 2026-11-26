@@ -1,32 +1,22 @@
 {
-  "schema_version": 1,
+  "schema": 2,
   "user": "KOR1K1",
-  "updated_at": "2026-11-25T13:09:10+00:00",
-  "period": {
-    "from": "2025-11-30",
-    "to": "2026-11-25",
-    "calendar_weeks": 52,
-    "includes_current_partial_week": true
-  },
-  "definitions": {
-    "height": "9 + 9*log2(daily contributions + 1), capped at 72",
-    "zero_day_height": 3.5,
-    "stars": "Owned public non-fork repositories, all pages",
-    "streak": "Consecutive active days ending today, or yesterday when today has zero contributions; limited to displayed period",
-    "visibility": "Activity returned by GitHub for the configured token. Private activity may be omitted or anonymized by GitHub.",
-    "landmarks": "Decorative; not contribution data"
-  },
-  "stats": {
-    "contributions": 2792,
-    "commits": 93,
-    "prs": 9,
-    "issues": 15,
-    "reviews": 0,
-    "stars": 11,
-    "repos": 7,
-    "streak": 1
-  },
+  "generatedAt": "2026-11-26T06:37:58.652Z",
+  "from": "2025-11-27",
+  "to": "2026-11-26",
   "days": [
+    {
+      "date": "2025-11-27",
+      "count": 0
+    },
+    {
+      "date": "2025-11-28",
+      "count": 0
+    },
+    {
+      "date": "2025-11-29",
+      "count": 0
+    },
     {
       "date": "2025-11-30",
       "count": 0
@@ -221,19 +211,19 @@
     },
     {
       "date": "2026-01-17",
-      "count": 12
+      "count": 11
     },
     {
       "date": "2026-01-18",
-      "count": 9
+      "count": 10
     },
     {
       "date": "2026-01-19",
-      "count": 2
+      "count": 1
     },
     {
       "date": "2026-01-20",
-      "count": 8
+      "count": 9
     },
     {
       "date": "2026-01-21",
@@ -709,11 +699,11 @@
     },
     {
       "date": "2026-05-19",
-      "count": 9
+      "count": 8
     },
     {
       "date": "2026-05-20",
-      "count": 19
+      "count": 20
     },
     {
       "date": "2026-05-21",
@@ -857,11 +847,11 @@
     },
     {
       "date": "2026-06-25",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-06-26",
-      "count": 9
+      "count": 10
     },
     {
       "date": "2026-06-27",
@@ -961,11 +951,11 @@
     },
     {
       "date": "2026-07-21",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-07-22",
-      "count": 17
+      "count": 18
     },
     {
       "date": "2026-07-23",
@@ -1253,11 +1243,11 @@
     },
     {
       "date": "2026-10-02",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-10-03",
-      "count": 26
+      "count": 27
     },
     {
       "date": "2026-10-04",
@@ -1469,7 +1459,165 @@
     },
     {
       "date": "2026-11-25",
-      "count": 28
+      "count": 38
+    },
+    {
+      "date": "2026-11-26",
+      "count": 16
+    }
+  ],
+  "totals": {
+    "contributions": 2818,
+    "private": 2695,
+    "commits": 93,
+    "prs": 9,
+    "issues": 15,
+    "stars": 11
+  },
+  "projects": [
+    {
+      "name": "SmartOpsPlatform",
+      "owner": "KOR1K1",
+      "url": "https://github.com/KOR1K1/SmartOpsPlatform",
+      "lang": "TypeScript",
+      "stars": 0,
+      "fork": false,
+      "upstream": null,
+      "description": "",
+      "commits": {
+        "2026-01-13": 22,
+        "2026-01-12": 3,
+        "2026-01-11": 2
+      },
+      "prs": []
+    },
+    {
+      "name": "CryptoBotContest",
+      "owner": "KOR1K1",
+      "url": "https://github.com/KOR1K1/CryptoBotContest",
+      "lang": "TypeScript",
+      "stars": 6,
+      "fork": false,
+      "upstream": null,
+      "description": "🏆 #1 Winner ($2,500) of Telegram @CryptoBot Backend Contest. Production-ready, high-concurrency digital asset auction system. Features immutable financial ledger, race-condition protection (MongoDB TX & Redis locks) and real-time WebSockets.",
+      "commits": {
+        "2026-01-23": 3,
+        "2026-01-22": 3,
+        "2026-01-21": 4,
+        "2026-01-20": 2,
+        "2026-01-19": 5
+      },
+      "prs": []
+    },
+    {
+      "name": "svitok",
+      "owner": "KOR1K1",
+      "url": "https://github.com/KOR1K1/svitok",
+      "lang": "Rust",
+      "stars": 2,
+      "fork": false,
+      "upstream": null,
+      "description": "Paper-first, offline, deterministic password manager with autofill. Passwords aren't stored - they're derived from a random seed on paper and a phrase in your head. Rust + Tauri.",
+      "commits": {
+        "2026-09-09": 6,
+        "2026-07-25": 2,
+        "2026-07-24": 9,
+        "2026-07-23": 21,
+        "2026-07-22": 8,
+        "2026-07-21": 3
+      },
+      "prs": [
+        {
+          "date": "2026-09-09",
+          "title": "Tags for the site list, Solar icons, support screen",
+          "state": "MERGED"
+        },
+        {
+          "date": "2026-09-09",
+          "title": "Keep the onboarding slide when switching language",
+          "state": "MERGED"
+        },
+        {
+          "date": "2026-09-09",
+          "title": "Let people read what they put in the vault",
+          "state": "MERGED"
+        },
+        {
+          "date": "2026-07-25",
+          "title": "Detect the 2FA field the way Chrome actually describes it",
+          "state": "MERGED"
+        },
+        {
+          "date": "2026-07-24",
+          "title": "Add ARCHITECTURE.md code map",
+          "state": "MERGED"
+        },
+        {
+          "date": "2026-07-24",
+          "title": "Add project agent skills",
+          "state": "MERGED"
+        },
+        {
+          "date": "2026-07-24",
+          "title": "Add agent scaffolding and workspace lints",
+          "state": "MERGED"
+        }
+      ]
+    },
+    {
+      "name": "windows-terminal-cursor-trail",
+      "owner": "KOR1K1",
+      "url": "https://github.com/KOR1K1/windows-terminal-cursor-trail",
+      "lang": "C++",
+      "stars": 5,
+      "fork": true,
+      "upstream": "microsoft/terminal",
+      "description": "Windows Terminal fork with an animated cursor trail (cursor smear, motion blur) like kitty, Ghostty and Neovide. Exposes the cursor to custom HLSL pixel shaders. Refresh-rate independent, zero idle GPU.",
+      "commits": {
+        "2026-10-30": 5
+      },
+      "prs": []
+    },
+    {
+      "name": "griddycode",
+      "owner": "face-hh",
+      "url": "https://github.com/face-hh/griddycode",
+      "lang": "Lua",
+      "stars": 2210,
+      "fork": false,
+      "upstream": null,
+      "description": "A code editor made with Godot. Code has never been more lit!",
+      "commits": {
+        "2026-03-31": 1
+      },
+      "prs": [
+        {
+          "date": "2026-03-31",
+          "title": "feat: add Rust language support",
+          "state": "OPEN"
+        }
+      ]
+    },
+    {
+      "name": "idevice",
+      "owner": "jkcoxson",
+      "url": "https://github.com/jkcoxson/idevice",
+      "lang": "Rust",
+      "stars": 600,
+      "fork": false,
+      "upstream": null,
+      "description": "A library to interact with services exposed by iOS",
+      "commits": {
+        "2026-03-24": 10,
+        "2026-03-23": 7
+      },
+      "prs": [
+        {
+          "date": "2026-03-24",
+          "title": "Add XCTest runner and WDA client support",
+          "state": "MERGED"
+        }
+      ]
     }
   ]
 }
