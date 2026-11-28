@@ -1,14 +1,10 @@
 {
   "schema": 2,
   "user": "KOR1K1",
-  "generatedAt": "2026-11-27T12:22:22.368Z",
-  "from": "2025-11-28",
-  "to": "2026-11-27",
+  "generatedAt": "2026-11-28T11:46:15.233Z",
+  "from": "2025-11-29",
+  "to": "2026-11-28",
   "days": [
-    {
-      "date": "2025-11-28",
-      "count": 0
-    },
     {
       "date": "2025-11-29",
       "count": 0
@@ -1463,12 +1459,16 @@
     },
     {
       "date": "2026-11-27",
-      "count": 11
+      "count": 17
+    },
+    {
+      "date": "2026-11-28",
+      "count": 22
     }
   ],
   "totals": {
-    "contributions": 2851,
-    "private": 2727,
+    "contributions": 2879,
+    "private": 2755,
     "commits": 94,
     "prs": 9,
     "issues": 15,
@@ -1603,7 +1603,7 @@
       "owner": "jkcoxson",
       "url": "https://github.com/jkcoxson/idevice",
       "lang": "Rust",
-      "stars": 602,
+      "stars": 603,
       "fork": false,
       "upstream": null,
       "description": "A library to interact with services exposed by iOS",
